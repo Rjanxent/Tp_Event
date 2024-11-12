@@ -1,0 +1,11 @@
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.deps.json
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\refint\CalculatorPrivateAssembly.dll
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\CalculatorPrivateAssembly.pdb
+C:\Users\JohnJ\OneDrive\Documents\VS2022\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net8.0\ref\CalculatorPrivateAssembly.dll
